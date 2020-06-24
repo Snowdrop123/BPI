@@ -128,7 +128,6 @@
 		8418385B24A0EFE1001FCDB1 /* BPI */ = {
 			isa = PBXGroup;
 			children = (
-				84A6C19C24A3074F003A8D7E /* New Group */,
 				8418389B24A19E7E001FCDB1 /* Models */,
 				8418389A24A19E74001FCDB1 /* Network */,
 				8418389924A19E5E001FCDB1 /* Screens */,
@@ -136,7 +135,6 @@
 				8418387C24A0F50F001FCDB1 /* Sources */,
 				8418389824A19E30001FCDB1 /* Supporting Files */,
 				8418386A24A0EFE4001FCDB1 /* Info.plist */,
-				8418388A24A0F8D2001FCDB1 /* UIViewController+Extensions.swift */,
 			);
 			path = BPI;
 			sourceTree = "<group>";
@@ -209,6 +207,7 @@
 			children = (
 				841838A424A1ED41001FCDB1 /* Date+Extensions.swift */,
 				841838A824A1FD8E001FCDB1 /* String+Extensions.swift */,
+				8418388A24A0F8D2001FCDB1 /* UIViewController+Extensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -272,13 +271,6 @@
 				841838C824A22FBD001FCDB1 /* RemoteGetCoinPriceRequest.swift */,
 			);
 			path = "Get Coin Price";
-			sourceTree = "<group>";
-		};
-		84A6C19C24A3074F003A8D7E /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		84A6C19D24A3077B003A8D7E /* Currency Exchanger */ = {
